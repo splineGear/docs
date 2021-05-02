@@ -1,2 +1,2 @@
-# docs
-These docs are generated in a repo.
+# Collaborative Coding
+This is a readme file in markdown which we can collaboratively edit.
